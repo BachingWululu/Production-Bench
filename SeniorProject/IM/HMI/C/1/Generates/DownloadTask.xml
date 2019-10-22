@@ -2,7 +2,7 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.1.0.0"
-    CreationTime="2019-10-22 16:13:31 (UTC)"
+    CreationTime="2019-10-22 19:45:29 (UTC)"
     Runtime="COLORADO"
     RtProjectName="SeniorProject.PC-System_1[SIMATIC PC station - WinCC RT Advanced]"
     RtProjectFolderName="SeniorProject.PC-System_1[SIMATIC PC station - WinCC RT Advanced]"
@@ -20,4 +20,6 @@
     type="ADMINDATA">pdata.pwx</FullDownload>
   <FullDownload>pdata.tfz</FullDownload>
   <FullDownload>ProjectSettings.hsf</FullDownload>
+  <License
+    type="WCRT011500">WinCC RT Advanced (128)</License>
 </DownloadTask>
