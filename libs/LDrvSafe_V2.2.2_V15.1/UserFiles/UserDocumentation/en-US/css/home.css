@@ -1,0 +1,422 @@
+/*******************************************************************************************
+    Main CSS
+*******************************************************************************************/
+html {
+	background: -ms-linear-gradient(rgb(135, 155, 170), white);
+	background: -moz-linear-gradient(rgb(135, 155, 170), white);
+	background: -webkit-linear-gradient(rgb(135, 155, 170), white);
+	background: -o-linear-gradient(rgb(135, 155, 170), white);
+    background: linear-gradient(rgb(135, 155, 170), white);
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+body {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	width: 1128px;
+	height: 100%;
+	min-height: 1085px;
+	box-shadow: 1px 1px 5px black;
+	font-family: Courier New;
+	font-size: 16px;
+}
+
+h1 {
+	font-size: 20px;
+	color: rgb(4,152,152);
+	font-weight: bold;
+	background-color: white;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 8px;
+	cursor: default;
+	background: -ms-linear-gradient(145deg , white 70%, rgb(135, 155, 170));
+	background: -moz-linear-gradient(145deg , white 70%, rgb(135, 155, 170));
+	background: -webkit-linear-gradient(145deg , white 70%, rgb(135, 155, 170));
+	background: -o-linear-gradient(145deg , white 70%, rgb(135, 155, 170));
+	background: linear-gradient(145deg , white 70%, rgb(135, 155, 170));
+	box-shadow: 1px 1px 5px black;
+	-ms-box-shadow: 1px 1px 5px black;
+	-moz-box-shadow: 1px 1px 5px black;
+	-webkit-box-shadow: 1px 1px 5px black;
+	-o-box-shadow: 1px 1px 5px black;
+}
+
+/*******************************************************************************************
+    CSS for IDs
+*******************************************************************************************/
+#mainContent {
+	position: absolute;
+	top: 132px;
+	left: 0px;
+	width: 100%;
+	height: calc(100% - 132px);
+	border: none;
+	border-collapse: collapse;
+	background-color: rgb(190, 205, 215);
+}
+
+#siemensLogo {
+	position: absolute;
+	top: 0px;
+	left: 50px;
+	z-index: 1;
+}
+
+#header {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 130px;
+	border-bottom: 2px solid white;
+	background-color: rgb(135, 155, 170);
+	z-index: 0;
+}
+
+#header img {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	z-index: 1;
+}
+
+#header td {
+	position: absolute;
+	top: 5px;
+	left: 18%;
+	width: 500px;
+	height: 50px;
+	font-family: Courier New;
+	color: white;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 1px 1px 5px black;
+	-ms-text-shadow: 1px 1px 5px black;
+	-moz-text-shadow: 1px 1px 5px black;
+	-webkit-text-shadow: 1px 1px 5px black;
+	-o-text-shadow: 1px 1px 5px black;
+	cursor: default;
+	z-index: 2;
+}
+
+#header span{
+	color: rgb(255, 237, 0);
+}
+
+/*
+functionBlocks1 adapted for Winder description
+*/
+#functionBlocks1 {
+	position: absolute;
+	top: 10px;
+	left: 70px;
+	width: 300px;
+}
+
+#functionBlocks1 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks1 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks1 col {
+	width: 290px;
+}
+
+/*
+functionBlocks2 adapted for Winder blocks
+*/
+#functionBlocks2 {
+	position: absolute;
+	top: 100px;
+	left: 110px;
+	width: 260px;
+}
+
+#functionBlocks2 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks2 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks2 col {
+	width: 290px;
+}
+
+/*
+functionBlocks3 adapted for PROFIsafe Block description
+*/
+#functionBlocks3 {
+	position: absolute;
+	top: 10px;
+	left: 410px;
+	width: 300px;
+}
+
+#functionBlocks3 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+#functionBlocks3 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+#functionBlocks3 col {
+	width: 290px;
+}
+/*
+functionBlocks4 adapted for PROFIsafe control words
+*/
+#functionBlocks4 {
+	position: absolute;
+	top: 100px;
+	left: 480px;
+	width: 230px;
+}
+
+#functionBlocks4 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+ 
+#functionBlocks4 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks4 col {
+	width: 290px;
+}
+
+/*
+functionBlocks5 adapted for PROFIsafe status words
+*/
+#functionBlocks5 {
+	position: absolute;
+	top: 370px;
+	left: 480px;
+	width: 230px;
+}
+
+#functionBlocks5 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks5 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks5 col {
+	width: 290px;
+}
+
+/*
+functionBlocks6 adapted for General Blocks (description)
+*/
+#functionBlocks6 {
+	position: absolute;
+	top: 10px;
+	left: 750px;
+	width: 300px;
+}
+
+#functionBlocks6 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks6 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks6 col {
+	width: 290px;
+}
+
+/*
+functionBlocks7 adapted for General Blocks
+*/
+#functionBlocks7 {
+	position: absolute;
+	top: 100px;
+	left: 790px;
+	width: 260px;
+}
+
+#functionBlocks7 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks7 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks7 col {
+	width: 290px;
+}
+
+/*
+functionBlocks8 adapted for SIC/SCC (description)
+*/
+#functionBlocks8 {
+	position: absolute;
+	top: 250px;
+	left: 750px;
+	width: 300px;
+}
+
+#functionBlocks8 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks8 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks8 col {
+	width: 290px;
+}
+
+/*
+functionBlocks9 adapted for SCC
+*/
+#functionBlocks9 {
+	position: absolute;
+	top: 340px;
+	left: 790px;
+	width: 260px;
+}
+
+#functionBlocks9 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks9 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks9 col {
+	width: 290px;
+}
+
+/*
+functionBlocks10 adapted for SIC
+*/
+#functionBlocks10 {
+	position: absolute;
+	top: 430px;
+	left: 790px;
+	width: 260px;
+}
+
+#functionBlocks10 table {
+	margin-left: 5px;
+	margin-right: 5px;
+	border: none;
+	border-collapse: collapse;
+}
+
+#functionBlocks10 tr {
+	height: 30px;
+	vertical-align: center;
+	border: 1px solid grey;
+}
+
+#functionBlocks10 col {
+	width: 290px;
+}
+
+/*******************************************************************************************
+    CSS for classes
+*******************************************************************************************/
+.alignRight {
+	text-align: right;
+}
+
+.alignLeft {
+	text-align: left;
+}
+
+.alignCenter {
+	text-align: center;
+}
+
+.link {
+	color: blue;
+	text-decoration: none;
+	transition: 200ms;
+	-ms-transition: 200ms;
+	-moz-transition: 200ms;
+	-webkit-transition: 200ms;
+	-o-transition: 200ms;
+}
+.link:visited {
+	color: blue;
+}
+
+.link:active {
+	color: blue;
+}
+
+.link:hover {
+	color: white;
+	cursor: pointer;
+	font-size: 17px;
+	font-weight: bold;
+	transition: 200ms;
+	-ms-transition: 200ms;
+	-moz-transition: 200ms;
+	-webkit-transition: 200ms;
+	-o-transition: 200ms;
+}
