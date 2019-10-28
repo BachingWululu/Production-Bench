@@ -1,15 +1,0 @@
-þÿÿÿ°Name-###SearchableNonTechnicalFieldNamesOfDocument###id###VisulizationRootBrowsableId###TargetId###ParentIds###UpdatableParentId###ImmediateParentIdText.0Text.1Text.2
-AlarmClass###ReferenceFieldIdsDisplayName###SearchFilterIdsTitleLanguageVersionConstant nameEvent classInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeUser-defined IDInstance DBCommentDatatypeAddressValueAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
-ServerName
-PortNumberWindowsDomainStationNamePartnerNameNodeNameAcknowledgementModelIdEmailAddressAcknowledgedText
-ComingText	GoingTextCommonAlarmClass	CycleUnit	CycleTimeTextNumber	ShortName
-LogoutTime	BackColor	GridColorTemplate	FunctionsAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorCaptionColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
-FilterTextFlashing
-FocusColorGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewTypeAboveUpperLimitColorBackFillStyleBelowLowerLimitColorBorderBackColorBorderColor	EdgeStyleEvenRowBackColorFont	ForeColorHorizontalAlignmentModeSelectBackColorSelectForeColorTextListTextOffTextOnTextOrientationVerticalAlignmentPropertyNameTagValueForPropertyTagPageAdaptPicture
-AutoSizingPictureTransparentColorDataTypeTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCodingPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
-StartValueAuthorFamilyFirstGradientColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizing	PictureOnSecondGradientColorVerticalPictureAlignment
-LineColor1
-LineColor2OperatableAreaColor
-Visibility###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStore
-DataFormatFormatPatternUnitAddressAccessMode
-ConnectionProcessValuePreCodeHeaderCodeFooterSCL CodeLayerSetOfVisibleColumnsTableGridlineColorFileName
