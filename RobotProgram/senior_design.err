@@ -1,0 +1,650 @@
+Error Protocol:	RV-2AJ,	November 01, 2019 13:42:25
+
+1;	16-04-01;	01:18:02;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+2;	16-03-31;	03:17:20;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+1;	16-03-30;	05:45:20;	70
+Meldung:	EMG signal is input. (T.Box)
+Ursache:	EMG signal is input. (T.Box)
+Abhilfe:	Check the T.Box emergency stop
+
+2;	16-03-30;	05:38:44;	3282
+Meldung:	Can't RUN(not select, attribute)
+Ursache:	The program is not selected or the attribute is illegal
+Abhilfe:	Select program or change the attribute
+
+2;	16-03-30;	05:33:18;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+2;	16-03-30;	05:33:06;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+2;	16-03-30;	05:32:42;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+2;	16-03-30;	05:32:24;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+1;	16-03-22;	04:12:10;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-22;	04:11:54;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-22;	04:11:52;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-22;	04:11:52;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-22;	04:11:08;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-22;	04:00:34;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+2;	16-03-03;	04:30:10;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+2;	16-03-03;	04:28:48;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+2;	16-03-03;	04:28:00;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+2;	16-03-03;	04:27:28;	4220
+Meldung:	Syntax error
+Ursache:	There is an error in the syntax of the input command statement
+Abhilfe:	Check the program, and reinput the correct syntax
+
+1;	16-03-03;	04:17:42;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-03;	04:00:50;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-03;	03:55:28;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-03;	03:49:54;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-03;	03:49:50;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+2;	16-03-03;	03:49:06;	2803
+Meldung:	Illegal position data (intmed)
+Ursache:	Illegal position data (intmed)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+2;	16-03-03;	03:48:08;	2803
+Meldung:	Illegal position data (intmed)
+Ursache:	Illegal position data (intmed)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+2;	16-03-03;	03:46:52;	2803
+Meldung:	Illegal position data (intmed)
+Ursache:	Illegal position data (intmed)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+2;	16-03-03;	03:46:42;	2803
+Meldung:	Illegal position data (intmed)
+Ursache:	Illegal position data (intmed)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+2;	16-03-03;	03:46:38;	2802
+Meldung:	Illegal position data (dstn)
+Ursache:	Illegal position data (dstn)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+2;	16-03-03;	03:46:10;	2803
+Meldung:	Illegal position data (intmed)
+Ursache:	Illegal position data (intmed)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+2;	16-03-03;	03:46:04;	2803
+Meldung:	Illegal position data (intmed)
+Ursache:	Illegal position data (intmed)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+2;	16-03-03;	03:45:48;	2803
+Meldung:	Illegal position data (intmed)
+Ursache:	Illegal position data (intmed)
+Abhilfe:	Change the position data
+Program:	CIROS.MB4
+
+1;	16-03-03;	01:30:10;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	05:17:44;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	05:17:40;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	05:11:42;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+2;	16-03-02;	04:52:56;	2802
+Meldung:	Illegal position data (dstn)
+Ursache:	Illegal position data (dstn)
+Abhilfe:	Change the position data
+Program:	sysalgn.MB4
+
+1;	16-03-02;	04:30:48;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:42:46;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:28:58;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:28:52;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:28:52;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:28:44;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:28:36;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:28:22;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:22:52;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:50;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:50;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:50;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:50;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:48;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:46;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:42;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:32;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:16;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:16;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:16;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:14;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:06;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:06;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:02;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:22:00;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:52;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:44;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:42;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:40;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:40;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:38;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:38;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:38;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:36;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:21:32;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:19:18;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:18:22;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:17:34;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:13:24;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:13:08;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:12:22;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:10:36;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:10:02;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:09:14;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:09:12;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:09:04;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:08:40;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:08:34;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:08:34;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:08:32;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:08:26;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	01:05:44;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:05:30;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:04:38;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	01:02:30;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	00:13:56;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	00:13:56;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	00:13:52;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	00:10:54;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-03-02;	00:10:50;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	00:10:50;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	00:10:48;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+1;	16-03-02;	00:10:44;	5000
+Meldung:	TB Enable key is ON
+Ursache:	The TB Enable key was ON in the AUTO mode
+Abhilfe:	OFF the TB Enable key, or enter the TEACH mode
+
+3;	16-02-29;	02:46:04;	1781
+Meldung:	Cannot set origin (SRVON)
+Ursache:	The origin was set during servo ON
+Abhilfe:	Turn the servo OFF before setting the origin
+
+1;	16-02-29;	02:40:18;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:14;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:14;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:12;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:12;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:12;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:00;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:00;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:40:00;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:39:34;	50
+Meldung:	EMG signal is input. (external)
+Ursache:	EMG signal is input. (external)
+Abhilfe:	Check the external emergency stop
+
+1;	16-02-29;	02:39:34;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:39:34;	40
+Meldung:	Door Switch Signal is Input
+Ursache:	Door Switch is opened
+Abhilfe:	Please close the Door be connected with Door Switch
+
+1;	16-02-29;	02:39:34;	50
+Meldung:	EMG signal is input. (external)
+Ursache:	EMG signal is input. (external)
+Abhilfe:	Check the external emergency stop
+
+1;	16-02-29;	02:39:34;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:39:34;	40
+Meldung:	Door Switch Signal is Input
+Ursache:	Door Switch is opened
+Abhilfe:	Please close the Door be connected with Door Switch
+
+1;	16-02-29;	02:39:34;	50
+Meldung:	EMG signal is input. (external)
+Ursache:	EMG signal is input. (external)
+Abhilfe:	Check the external emergency stop
+
+1;	16-02-29;	02:39:34;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:39:34;	40
+Meldung:	Door Switch Signal is Input
+Ursache:	Door Switch is opened
+Abhilfe:	Please close the Door be connected with Door Switch
+
+1;	16-02-29;	02:39:34;	50
+Meldung:	EMG signal is input. (external)
+Ursache:	EMG signal is input. (external)
+Abhilfe:	Check the external emergency stop
+
+1;	16-02-29;	02:39:34;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:39:34;	40
+Meldung:	Door Switch Signal is Input
+Ursache:	Door Switch is opened
+Abhilfe:	Please close the Door be connected with Door Switch
+
+1;	16-02-29;	02:39:10;	50
+Meldung:	EMG signal is input. (external)
+Ursache:	EMG signal is input. (external)
+Abhilfe:	Check the external emergency stop
+
+1;	16-02-29;	02:39:10;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:39:10;	40
+Meldung:	Door Switch Signal is Input
+Ursache:	Door Switch is opened
+Abhilfe:	Please close the Door be connected with Door Switch
+
+1;	16-02-29;	02:39:10;	50
+Meldung:	EMG signal is input. (external)
+Ursache:	EMG signal is input. (external)
+Abhilfe:	Check the external emergency stop
+
+1;	16-02-29;	02:39:10;	72
+Meldung:	EMG cancel operation is faulty.(T.Box)
+Ursache:	TB cancel switch operation was incorrect
+Abhilfe:	Check the T/B cancel switch operation
+
+1;	16-02-29;	02:39:10;	40
+Meldung:	Door Switch Signal is Input
+Ursache:	Door Switch is opened
+Abhilfe:	Please close the Door be connected with Door Switch
+
+1;	16-02-29;	02:39:08;	50
+Meldung:	EMG signal is input. (external)
+Ursache:	EMG signal is input. (external)
+Abhilfe:	Check the external emergency stop
