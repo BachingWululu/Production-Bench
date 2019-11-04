@@ -19861,6 +19861,12 @@
 			(io_id : d_i_u_10
 				(io_name : "ERRRESET")
 			)
+			(io_id : d_i_u_12
+				(io_name : "IOENA")
+			)
+			(io_id : d_i_u_13
+				(io_name : "SRVOFF")
+			)
 			(io_id : d_i_u_255)
 			(io_id : d_i_u_900
 				(io_name : "HOPENED1")
