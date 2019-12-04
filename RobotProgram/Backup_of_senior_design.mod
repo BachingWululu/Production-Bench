@@ -19867,6 +19867,9 @@
 			(io_id : d_i_u_13
 				(io_name : "SRVOFF")
 			)
+			(io_id : d_i_u_14
+				(io_name : "SLOTINIT")
+			)
 			(io_id : d_i_u_255)
 			(io_id : d_i_u_900
 				(io_name : "HOPENED1")
